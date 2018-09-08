@@ -1,0 +1,15 @@
+—-SHOOTING—-
+1. PLAYER ACTION
+2. PROCESS
+3. OUTCOME
+4. ENEMY ACTION
+
+
+player action
+
+	to shoot the player must click the LMB
+
+	process
+
+		shooting causes the cursor to direct the aim
+		
